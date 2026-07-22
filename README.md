@@ -1,40 +1,36 @@
 # מִשְׂחַק הַמִּסְפָּרִים — The Numbers Game
 
-An interactive drill game for practicing **Biblical Hebrew numbers**, from the teens to the thousands.
+Practice **Biblical Hebrew numbers** — from the teens to the thousands — in fast, 90-second rounds.
 
-Created by **Ben Eisenberg** for [Lingua Deo Gloria](https://linguadeogloria.com) and shared freely — copy, use, and pass it on.
+Created by **Ben Eisenberg** for [Lingua Deo Gloria](https://www.linguadeogloria.com) and shared freely — copy, use, and pass it on.
 
-## Play
+**[Play the game here](../../)** *(or open `index.html` in any modern browser — it works offline, nothing to install)*
 
-Open `index.html` in any modern browser — no installation, no internet connection needed after download.
+## How to play
 
-### Host it on GitHub Pages
-
-1. Create a repository and upload `index.html` (and this README).
-2. In the repo: **Settings → Pages → Deploy from a branch**, select `main` and `/ (root)`.
-3. Your game will be live at `https://<username>.github.io/<repo>/`.
-
-## How the game works
-
-- **90-second rounds** (45s each for 2 players, 30s each for 3 — relay style, each scribe has their own clock and ink color).
-- **Two question types**, mixed at random:
-  - *How many?* — read a fully pointed Hebrew number phrase and type the digits.
-  - *Build the number* — see a numeral and assemble the Hebrew from word tiles, placing the conjunctive וְ yourself.
-- **Four levels**, unlocked by scoring 10 correct in a round:
+- Each round lasts **90 seconds**. Answer as many questions as you can.
+- Two question types, mixed at random:
+  - **How many?** — read a fully pointed Hebrew number phrase and type the digits.
+  - **Build the number** — see a numeral and assemble the Hebrew from word tiles, placing the conjunctive וְ yourself.
+- Tap **hint** on any question to reveal the counted noun's meaning and gender.
+- **Four levels** — score 10 correct in a round to unlock the next:
   1. הַשַּׁעַר The Gate — 11–19
   2. הֶחָצֵר The Courtyard — 20–99
   3. הַחוֹמָה The Wall — 100–999
   4. הָעִיר The City — 1,000–9,999
-- Progress (best scores, unlocked levels) is saved in the browser.
+- Play **solo** or as a **team of 2–3 scribes**: each player picks an ink color and gets their own share of the clock (45s each for two, 30s each for three), taking turns on one device.
+- Your best scores and unlocked levels are saved in your browser.
 
-## Grammar conventions
+## What it teaches
 
 The game follows **Biblical** (not Modern) Hebrew norms:
 
-- Gender agreement driven by a real counted noun on every question (אִישׁ, יוֹם, שֶׁקֶל / שָׁנָה, נֶפֶשׁ, אַמָּה), including the chiastic 3–9 forms.
+- Gender agreement with a real counted noun on every question (אִישׁ, יוֹם, שֶׁקֶל / שָׁנָה, נֶפֶשׁ, אַמָּה).
 - Construct forms for hundreds (שְׁלֹשׁ מֵאוֹת) and thousands (שְׁלֹשֶׁת אֲלָפִים).
-- Both attested component orders accepted: smallest-first (common in the Pentateuch, e.g. Gen 5) and largest-first (common in Chronicles–Ezra).
-- Conjunctive vav: classical polysyndeton (וְ on every non-initial component) accepted, as well as late-list style with the vav required before the final component; 11–19 are treated as bound phrases with no internal vav. Assimilated pointing (וּ, וַ, וָ) is shown in the answers.
-- Counted nouns appear in the singular after tens/hundreds/thousands and in the plural after a final unit 3–9, per biblical usage.
+- Both attested word orders: smallest-first (common in the Pentateuch) and largest-first (common in Chronicles–Ezra).
+- The conjunctive vav: classical style joins every part (וְ on each non-initial component), and the late-list style of Ezra/Chronicles (vav only before the final part) is also accepted. Numbers 11–19 are bound phrases with no internal vav.
+- Counted nouns in the singular after tens/hundreds/thousands, plural after a final unit 3–9, per biblical usage.
 
-Corrections and suggestions welcome.
+---
+
+If this game helps you, consider [donating to support our work](https://www.linguadeogloria.com/donate). May your study of the Scriptures be blessed!
